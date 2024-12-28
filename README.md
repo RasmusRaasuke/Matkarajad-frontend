@@ -1,5 +1,11 @@
 # Matkarajad
 
+[LINK](http://matkarajad.zapto.org/)
+
+## Backend
+
+Our backend is in another [repository](https://github.com/RasmusRaasuke/Matkarajad-backend).
+
 ## Purpose
 
 The purpose of the application is to enable users to
